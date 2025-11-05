@@ -1,0 +1,13 @@
+# Robots.txt for Trichotillomania Israel
+# Allow all search engines to crawl the entire website
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://orrophir67.github.io/Trichotillomania-Israel/sitemap.xml
+
+# Block access to development files (optional security)
+Disallow: /node_modules/
+Disallow: /src/
+Disallow: /.git/
