@@ -5,7 +5,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://orrophir67.github.io/Trichotillomania-Israel/sitemap.xml
+Sitemap: https://tricho-israel.com/sitemap.xml
 
 # Block access to development files (optional security)
 Disallow: /node_modules/

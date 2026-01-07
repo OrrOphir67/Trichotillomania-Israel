@@ -6,10 +6,10 @@
   <!-- Save the original path and redirect via JavaScript -->
   <script>
     sessionStorage.redirect = location.pathname + location.search + location.hash;
-    location.replace('./');
+    location.replace('/');
   </script>
   <!-- Meta refresh as backup only -->
-  <meta http-equiv="refresh" content="0; url=./" />
+  <meta http-equiv="refresh" content="0; url=/" />
   <!-- Styling identical to site background + spinner -->
   <style>
     html, body {
